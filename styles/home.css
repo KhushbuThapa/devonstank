@@ -82,8 +82,6 @@ body {
 
 .card:hover > .card-body {
     /*display: inline-flex;*/
-    transform: translateY(-100%);
-    margin-top: 95%;
     width: 93%;
 }
 
